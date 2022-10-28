@@ -1,0 +1,12 @@
+.table {
+  border: 5px solid green;
+  text-align: center;
+  align-items: center;
+  background-color: #075730;
+  padding: 50px;
+  margin: 10px;
+  width: 99%;
+}
+.text{
+  color: white;
+}
